@@ -12,8 +12,8 @@ Organization tasks, such as renaming or cleaning up labels across repositories, 
 
 ## The dot repositories
 
-| Repository                                                       | Visibility | Role                                                                    |
-| ---------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------- |
-| [.github](https://github.com/GetAddify/.github)                  | Public     | The public organization profile and the default community health files |
-| [.github-private](https://github.com/GetAddify/.github-private)  | Members    | The members-only organization profile (this repository)                 |
-| [.github-admin](https://github.com/GetAddify/.github-admin)      | Admins     | Organization tasks and automation                                       |
+| Repository                                                       | Visibility | Role                                             |
+| ---------------------------------------------------------------- | ---------- | ------------------------------------------------ |
+| [.github](https://github.com/GetAddify/.github)                  | Public     | The public organization profile (this repository |
+| [.github-private](https://github.com/GetAddify/.github-private)  | Members    | The members-only organization profile            |
+| [.github-admin](https://github.com/GetAddify/.github-admin)      | Admins     | Organization tasks and automation                |
